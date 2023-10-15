@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="##-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="##-Redes-&-contato">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-Streak">Projeto</a>
 </p>
 
 ## <b>Sobre</b>
@@ -44,10 +45,8 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
 
 ## <b>Streak<b>
 
-
----
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatVzn&theme=dark&hide_border=false" alt="Github stats" />
 </p>
 
----# MatVzn
+---
