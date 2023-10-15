@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="##-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Redes-&-contato">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Streak">Projeto</a>
+  <a href="##-Redes-&-contato">Redes e contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-Streak">Streak</a>
 </p>
 
 ## <b>Sobre</b>
