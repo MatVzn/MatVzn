@@ -1,6 +1,11 @@
 <h1 align="center">Hi!,  I'm Matteo<img src=
 "https://media1.giphy.com/media/vimgwCvGw5JgbaABxF/giphy.gif" width="40"></h1>
 
+<img border="0" alt="banner" src="https://cdna.artstation.com/p/assets/images/images/064/961/204/original/huaxiake-012.gif">
+
+---
+<br>
+
 <p align="center">
   <a href="##-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="##-Redes-&-contato">Redes e contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
