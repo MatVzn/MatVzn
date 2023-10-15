@@ -7,9 +7,9 @@
 <br>
 
 <p align="center">
-  <a href="##-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Redes-&-contato">Redes e contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Streak">Streak</a>
+  <a href="##sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##redes--contato">Redes e contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##streak">Streak</a>
 </p>
 
 ## <b>Sobre</b>
