@@ -26,6 +26,16 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
 
 - ⚡ Próximos passos: React Native, ReactJS, Node.js e Elixir.
 
+  <br>
+
+<h3>Conhecimento</h3>
+
+- 🟥⬜⬜⬜ C
+- 🟥⬜⬜⬜ PYTHON
+- 🟥⬜⬜⬜ JS
+- 🟧🟧⬜⬜ HTML
+- 🟧🟧⬜⬜ CSS         
+
 <br>
 
 ## <b>Redes & contato</b>
