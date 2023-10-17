@@ -37,9 +37,6 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
   <a href="https://www.linkedin.com/in/matvzn/">  
     <img border="0" alt="linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
-  <a href="mattvzn">
-    <img border="0" alt="discord: mattvzn" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-  </a>
   <a href="mailto:matteovoleite@gmail.com">
     <img border="0" alt="Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
