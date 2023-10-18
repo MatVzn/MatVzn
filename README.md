@@ -41,7 +41,6 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
     <img border="0" alt="Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
 </p>
-<p align="center">(Sem todos os links no momento)</p>
 
 ## <b>Streak<b>
 
