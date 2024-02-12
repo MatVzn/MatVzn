@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#redes--contato">Redes e contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#status">Status</a>
+  <a href="#redes--contato">Redes e contato</a>
 </p>
 
 ## <b>Sobre</b>
@@ -41,11 +40,4 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
     <img border="0" alt="Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
 </p>
-
-## <b>Status<b>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatVzn&theme=dark&hide_border=false" alt="Github stats" />
-</p>
-
 ---
