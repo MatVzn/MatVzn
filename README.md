@@ -19,8 +19,6 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
 
 - 💻 Estudando desenvolvimento WEB/Mobile.
 
--  📚 Engenharia de Telecomunicações UFF.
-
 - ⭐ Atualmente focado em HTML, CSS e JavaScript.
 
 - ⚡ Próximos passos: React Native, ReactJS, Node.js e Elixir.        
