@@ -23,10 +23,10 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
 <br>
 
 <p align="center">
-  <a href="https://matvzn.github.io/MyPortfolio">
+  <a href="https://matvzn.github.io/MyPortfolio" target="_blank">
     <img border="0" alt="portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
   </a>
-  <a href="https://www.linkedin.com/in/matvzn/">  
+  <a href="https://www.linkedin.com/in/matvzn/" target="_blank">  
     <img border="0" alt="linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
   <a href="mailto:matteovoleite@gmail.com">
