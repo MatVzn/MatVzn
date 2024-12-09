@@ -14,9 +14,9 @@ Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e e
 
 - 💻 Estudando desenvolvimento WEB/Mobile.
 
-- ⭐ Atualmente focado em HTML, CSS e JavaScript.
+- ⭐ HTML, CSS, JavaScript, ReactJS e TailwindCSS.
 
-- ⚡ Próximos passos: React Native, ReactJS e Node.js.        
+- ⚡ Próximos passos: React Native e Node.js.        
 
 ## <b>Redes & contato</b>
 
