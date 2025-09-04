@@ -8,15 +8,13 @@
 
 ## <b>Sobre</b>
 
-Me chamo Matteo e atualmente estou cursando Engenharia de Telecomunicações e estudando Desenvolvimento Web/Mobile em paralelo. Também escrevo e sou bom idealizando e pensando coisas, sempre gostei da área de tecnologia e pretendo me especializar cada vez mais focando principalmente no estudo constante através das minhas postagens feitas aqui no Github!
+Me chamo Matteo e atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando Desenvolvimento Web/Mobile em paralelo. Também escrevo e sou bom idealizando e pensando coisas, sempre gostei da área de tecnologia e pretendo me especializar cada vez mais focando principalmente no estudo constante através das minhas postagens feitas aqui no Github!
 
 <br>
 
 - 💻 Estudando desenvolvimento WEB/Mobile.
 
 - ⭐ HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS e IA.
-
-- ⚡ Próximos passos: React Native e Node.js.        
 
 ## <b>Redes & contato</b>
 
