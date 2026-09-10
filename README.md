@@ -1,8 +1,6 @@
 <h1 align="center">Hi!,  I'm Matteo<img src=
 "https://media1.giphy.com/media/vimgwCvGw5JgbaABxF/giphy.gif" width="40"></h1>
 
-<br>
-
 - 💻 Desenvolvedor Front-End
 
 - ⭐ ReactJS - Tailwind - CSS - Vue - Typescript
